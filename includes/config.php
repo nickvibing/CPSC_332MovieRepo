@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?php
 return [
     'db' => [
@@ -9,3 +10,6 @@ return [
     ],
     'base_url' => 'http://localhost/project-partc/public',
 ];
+=======
+<!-- constants / settings (no secrets in repo) -->
+>>>>>>> 9e01b81799b3727c238a5cf943a5964e3edfc674

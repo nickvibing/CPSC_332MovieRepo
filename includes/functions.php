@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?php
 
 function esc($str) {
@@ -68,3 +69,6 @@ function success_box($message) {
 function info_box($message) {
     return '<div class="info-box">' . esc($message) . '</div>';
 }
+=======
+<!-- esc(), csrf_token(), check_csrf(), param(), etc. -->
+>>>>>>> 9e01b81799b3727c238a5cf943a5964e3edfc674

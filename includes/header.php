@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?php
 require_once __DIR__ . '/config.php';
 require_once __DIR__ . '/functions.php';
@@ -26,3 +27,6 @@ $config = require __DIR__ . '/config.php';
         </nav>
     </header>
     <main>
+=======
+<!-- shared <head> + nav -->
+>>>>>>> 9e01b81799b3727c238a5cf943a5964e3edfc674

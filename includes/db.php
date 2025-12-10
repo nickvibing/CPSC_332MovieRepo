@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?php
 $config = require __DIR__ . '/config.php';
 
@@ -13,3 +14,6 @@ try {
 } catch (PDOException $e) {
     die('Database connection failed: ' . htmlspecialchars($e->getMessage()));
 }
+=======
+<!-- PDO connection -->
+>>>>>>> 9e01b81799b3727c238a5cf943a5964e3edfc674
