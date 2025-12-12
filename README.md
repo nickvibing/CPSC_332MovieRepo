@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Movie Theatre Ticket System
 
 A flat PHP web application for browsing movies, selecting showtimes, purchasing tickets, and managing refunds using an existing movie theatre database.
@@ -376,4 +375,3 @@ CALL sell_ticket(1, 'D', 8, 6, NULL, @ticket_id2);
 UPDATE TICKET SET state = 'REFUNDED' WHERE ticket_id = @ticket_id;
 SELECT * FROM TICKET_AUDIT WHERE ticket_id = @ticket_id;
 ```
->>>>>>> 9e01b81799b3727c238a5cf943a5964e3edfc674
